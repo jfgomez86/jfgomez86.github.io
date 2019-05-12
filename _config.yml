@@ -5,7 +5,7 @@ baseurl: ''
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "http://www.gravatar.com/avatar/0b3f17cc300b593d40619c5c695f111e?s=100"
+  logo: "//www.gravatar.com/avatar/0b3f17cc300b593d40619c5c695f111e?s=100"
   # author will appear under the avatar (optional)
   author: "Jose F. Gomez"
   # tagline will appear under the title (optional)
